@@ -1,7 +1,8 @@
 * [ReadME](README.md)
 * 简介
-    * [东小西](md/myinfo.md)
-* 精选博客
-    * [CPU100%，怎么快速定位](md/100.md)
-    * [谈一谈9年前的jdk8的新特性](md/谈一谈9年前的jdk8的新特性.md)
-    * [自定义类加载器](md/自定义类加载器.md)
+    * [个人介绍](md/myinfo.md)
+* Spring系列
+  * SpringBoot
+      * [SpringBoot入门](md/spring/springboot/01.md)
+      * [SpringBoot集成Mybatis](md/spring/springboot/02.md)
+      * [SpringBoot集成MybatisFlex](md/spring/springboot/03.md)
