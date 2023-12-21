@@ -5,7 +5,7 @@
   * SpringBoot
       * [SpringBoot入门](md/spring/springboot/01.md)
       * [SpringBoot集成Mybatis](md/spring/springboot/02.md)
-      * [SpringBoot集成MybatisFlex](md/spring/springboot/03.md)
+      * [SpringBoot生产项目配置](md/spring/springboot/03.md)
 * Spring系列2
   * SpringBoot
     * [SpringBoot入门](md/spring/springboot/01.md)
