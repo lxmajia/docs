@@ -1,11 +1,11 @@
 * [ReadME](README.md)
 * 简介
     * [个人介绍](md/myinfo.md)
-* Spring系列1
-  * SpringBoot
-      * [SpringBoot入门](md/spring/springboot/01.md)
-      * [SpringBoot集成Mybatis](md/spring/springboot/02.md)
-      * [SpringBoot生产项目配置](md/spring/springboot/03.md)
+* SpringBoot
+    * [SpringBoot入门](md/spring/springboot/01.md)
+    * [SpringBoot集成Mybatis](md/spring/springboot/02.md)
+    * [SpringBoot生产项目配置](md/spring/springboot/03.md)
+    * [SpringBoot集成Redis](md/spring/springboot/04.md)
 * Spring系列2
   * SpringBoot
     * [SpringBoot入门](md/spring/springboot/01.md)
