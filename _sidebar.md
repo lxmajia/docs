@@ -7,6 +7,8 @@
   * [SpringBoot生产项目配置](md/spring/springboot/03.md)
   * [SpringBoot集成Redis](md/spring/springboot/04.md)
   * [MybatisPlus集成与使用](md/spring/springboot/05.md)
+* Mysql框架
+  * [Linux下安装MySQL5.7](md/)
 * SpringCloudAlibaba
 * Nginx运用指南
 * RocketMQ使用指南
