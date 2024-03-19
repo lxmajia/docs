@@ -9,9 +9,8 @@ Mycat是一个开源的分布式数据库系统，是一个实现了MySQL 协议
 
 ### MyCat下载
 
-下载Mysql5.7对应的rpm软件包管理器（可以直接使用wget进行下载）
-
-wget <https://dev.mysql.com/get/mysql57-community-release-el7-9.noarch.rpm>
+下载地址（扫码关注：输入：960810，获取到下载地址）
+![gzh_qrcode_12.jpg](..%2F..%2Fmedia%2Fgzh_qrcode_12.jpg)
 
 ### 配置文件说明
 
@@ -108,6 +107,8 @@ schemas需要与原schema.xml中的name一致。
 ```
 
 #### 启动使用
+
+注意：需要将schema.xml复制一份newSchema.xml，和rule.xml复制一份newRule.xml，排除运行不了的情况
 
 直接到bin目录下，双击startup_nowrap.bat运行，启动mycat服务（默认端口8066）
 
