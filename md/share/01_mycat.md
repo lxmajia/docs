@@ -128,4 +128,5 @@ startup_nowrap.bat
 ```
 
 这样就可以在本地连接8066端口，使用配置的账号密码root/admin进行连接，可以单库中操作所有的分片库了
+
 ![pic_0001.png](pic_0001.png)
