@@ -25,7 +25,7 @@ Mycat是一个开源的分布式数据库系统，是一个实现了MySQL 协议
 
 
 #### schema.xml
-schema下：我这里列举了两中表结构，其中order表是order_id为主键，一对一的。order_all_promotion表是id为主键（分片库下需确保id不重复），order
+schema下：我这里列举了两张表结构，其中order表是order_id为主键，一对一的。order_all_promotion表是id为主键（分片库下需确保id不重复），order
 与之是一对多的关系，我这里所有的表都是按照orderId进行分片。rule=mod-long-orderId是分片规则，在后续rule.xml中说明
 
 dataNode下：有两个数据源，order0和order1，数据库名字都为hotel_order2，其中order0的数据库配置配了专门的读写分离
@@ -65,7 +65,7 @@ dataNode下：有两个数据源，order0和order1，数据库名字都为hotel_
 
 该文件主要配置了很多分片规则（取模，固定，时间，按字段等等等），因为我们就用到了取模，这里对取模做演示，其他的百度了解。
 
-下面配置了取模分片，摸为2，去分片命中前面配置的数据库。tableRule下的name就是我们在schema中的rule
+下面配置了取模分片，取模为2，去分片命中前面配置的数据库。tableRule下的name就是我们在schema中的rule
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
