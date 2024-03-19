@@ -11,7 +11,7 @@ Mycat是一个开源的分布式数据库系统，是一个实现了MySQL 协议
 
 下载地址（扫码关注：输入：960810，获取到下载地址）
 
-![gzh_qrcode_12.jpg](..%2F..%2Fmedia%2Fgzh_qrcode_12.jpg#pic_left)
+![gzh_qrcode_12.jpg](..%2F..%2Fmedia%2Fgzh_qrcode_12.jpg)
 
 ### 配置文件说明
 
